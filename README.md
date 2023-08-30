@@ -2,7 +2,10 @@
 
 ![cover](https://github.com/samadpls/TensorFlow-Model-Exploration/assets/94792103/22bb0cb6-3463-4cb6-b211-153d380a2c7a)
 
-Welcome to my TensorFlow Machine Learning Projects repository! Here, I embark on an exciting journey through the realm of machine learning using TensorFlow, showcasing my work on captivating datasets like Titanic, Iris, and Weather.
+Welcome to my TensorFlow Machine Learning Projects repository! Here, I embark on an exciting journey through the realm of machine learning using TensorFlow, showcasing my work on captivating datasets like:
+
+## Fashion MNIST Neural Network Model - Exploring Image Classification with Keras
+The exploration takes a new turn with the Fashion MNIST Neural Network Model, where I dive into the realm of image classification using the Keras dataset. By implementing various neural network architectures, I delve into the intricacies of classifying fashion items with remarkable accuracy.
 
 ## Weather Model - Unveiling HiddenMarkovModel
 
