@@ -4,12 +4,12 @@
 
 Welcome to my TensorFlow Machine Learning Projects repository! Here, I embark on an exciting journey through the realm of machine learning using TensorFlow, showcasing my work on captivating datasets like:
 
+## Sentiment Analysis using Natural Language Processing With RNN on IMDb Dataset
+
+In this project, I worked on sentiment analysis using Natural Language Processing (NLP) techniques with Recurrent Neural Networks (RNN) on the IMDb dataset. I explore the world of text classification and sentiment prediction, demonstrating how RNNs can be applied to analyze and classify movie reviews based on sentiment.
+
 ## Fashion MNIST Neural Network Model - Exploring Image Classification with Keras
-The exploration takes a new turn with the Fashion MNIST Neural Network Model, where I dive into the realm of image classification using the Keras dataset. By implementing various neural network architectures, I delve into the intricacies of classifying fashion items with remarkable accuracy.
-
-## Weather Model - Unveiling HiddenMarkovModel
-
-The journey begins with the Weather Model, where I delve into the fascinating world of Hidden Markov Models (HMM). By applying HMM, I explore the patterns and transitions within weather data, uncovering valuable insights and predictions.
+The exploration continues with the Fashion MNIST Neural Network Model, where I delve into the realm of image classification using the Keras dataset. By implementing various neural network architectures, I delve into the intricacies of classifying fashion items with remarkable accuracy.
 
 ## Iris Dataset - Navigating Classification with TensorFlow
 
@@ -17,7 +17,11 @@ In the Iris dataset project, I tackle classification tasks using TensorFlow's ve
 
 ## Titanic Dataset - Exploring Linear Regression
 
-The voyage continues with the Titanic dataset project, where I delve into predicting continuous target variables using the powerful Linear Regression model. This venture provides an illuminating introduction to TensorFlow's application in regression tasks, covering data preprocessing, model construction, and comprehensive evaluations.
+The voyage moves forward with the Titanic dataset project, where I delve into predicting continuous target variables using the powerful Linear Regression model. This venture provides an illuminating introduction to TensorFlow's application in regression tasks, covering data preprocessing, model construction, and comprehensive evaluations.
+
+## Weather Model - Unveiling Hidden Markov Model
+
+The journey concludes with the Weather Model, where I delve into the fascinating world of Hidden Markov Models (HMM). By applying HMM, I explore the patterns and transitions within weather data, uncovering valuable insights and predictions.
 
 ## Onward to New Discoveries
 
